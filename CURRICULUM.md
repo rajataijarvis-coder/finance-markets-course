@@ -25,11 +25,11 @@
 | 08 | Money Markets | ✅ Complete |
 | 09 | Foreign Exchange (Forex) | ✅ Complete |
 | 10 | Commodities | ✅ Complete |
-| 11 | Derivatives: Futures & Forwards | 📝 Pending |
-| 12 | Derivatives: Options | 📝 Pending |
-| 13 | Derivatives: Swaps | 📝 Pending |
-| 14 | Credit Markets | 📝 Pending |
-| 15 | Alternative Investments | 📝 Pending |
+| 11 | Derivatives: Futures & Forwards | ✅ Complete |
+| 12 | Derivatives: Options | ✅ Complete |
+| 13 | Derivatives: Swaps | ✅ Complete |
+| 14 | Credit Markets | ✅ Complete |
+| 15 | Alternative Investments | ✅ Complete |
 
 ## Phase 3: Market Infrastructure (Modules 16-22)
 | Module | Topic | Status |
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 10 added)*
+*Last updated: 2026-07-05 (Module 15 added)*
