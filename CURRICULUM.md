@@ -66,16 +66,16 @@
 ## Phase 6: Active Trading & Strategy (Modules 36-45)
 | Module | Topic | Status |
 |--------|-------|--------|
-| 36 | Technical Analysis 101 | 📝 Pending |
-| 37 | Trading Indicators (RSI, MACD, Bollinger) | 📝 Pending |
-| 38 | Price Action & Support/Resistance | 📝 Pending |
-| 39 | Risk Management for Traders | 📝 Pending |
-| 40 | Trading Psychology & Discipline | 📝 Pending |
-| 41 | Backtesting Strategies | 📝 Pending |
-| 42 | Building a Trading System | 📝 Pending |
-| 43 | Macro Trading & Event Trading | 📝 Pending |
-| 44 | News & Sentiment Trading | 📝 Pending |
-| 45 | Execution, Order Flow & Broker Setup | 📝 Pending |
+| 36 | Technical Analysis 101 | ✅ Complete |
+| 37 | Trading Indicators (RSI, MACD, Bollinger) | ✅ Complete |
+| 38 | Price Action & Support/Resistance | ✅ Complete |
+| 39 | Risk Management for Traders | ✅ Complete |
+| 40 | Trading Psychology & Discipline | ✅ Complete |
+| 41 | Backtesting Strategies | ✅ Complete |
+| 42 | Building a Trading System | ✅ Complete |
+| 43 | Macro Trading & Event Trading | ✅ Complete |
+| 44 | News & Sentiment Trading | ✅ Complete |
+| 45 | Execution, Order Flow & Broker Setup | ✅ Complete |
 
 ## Phase 7: Taxation & Wealth Preservation (Modules 46-50)
 | Module | Topic | Status |
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Phase 4 Complete: Central Banking + Stability + Crisis Response)
+*Last updated: 2026-07-05 (PHASE 6 COMPLETE: Active Trading & Strategy - Modules 36-45)
