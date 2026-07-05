@@ -35,20 +35,20 @@
 | Module | Topic | Status |
 |--------|-------|--------|
 | 16 | Stock Exchanges | ✅ Complete |
-| 17 | Clearing & Settlement | 📝 Pending |
-| 18 | Market Makers & Liquidity | 📝 Pending |
-| 19 | Trading Mechanisms | 📝 Pending |
-| 20 | Market Regulation | 📝 Pending |
-| 21 | Market Data & Indices | 📝 Pending |
-| 22 | Electronic Trading | 📝 Pending |
+| 17 | Clearing & Settlement | ✅ Complete |
+| 18 | Market Makers & Liquidity | ✅ Complete |
+| 19 | Trading Mechanisms | ✅ Complete |
+| 20 | Market Regulation | ✅ Complete |
+| 21 | Market Data & Indices | ✅ Complete |
+| 22 | Electronic Trading | ✅ Complete |
 
 ## Phase 4: Central Banking & Policy (Modules 23-28)
 | Module | Topic | Status |
 |--------|-------|--------|
-| 23 | What Central Banks Do | 📝 Pending |
-| 24 | Monetary Policy Tools | 📝 Pending |
-| 25 | Inflation Targeting | 📝 Pending |
-| 26 | Currency Policy | 📝 Pending |
+| 23 | What Central Banks Do | ✅ Complete |
+| 24 | Monetary Policy Tools | ✅ Complete |
+| 25 | Inflation Targeting | ✅ Complete |
+| 26 | Currency Policy | ✅ Complete |
 | 27 | Financial Stability | 📝 Pending |
 | 28 | Crisis Response | 📝 Pending |
 
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 16 added)*
+*Last updated: 2026-07-05 (Modules 17-26 added: Infrastructure + Central Banking + Currency Policy)
