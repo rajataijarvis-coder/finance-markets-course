@@ -64,19 +64,28 @@ In 1971, the US stopped backing dollars with gold. Now money is:
 ## 🏛️ The Three Functions of Money
 
 ### 1. Medium of Exchange
-- You can trade money for anything
-- Eliminates barter problems
-- **Example:** Pay ₹500 for groceries
+- You can trade money for anything, anywhere in the world
+- Eliminates barter problems across borders
+- **Examples:**
+  - UK: Pay £50 for groceries at Tesco
+  - US: Pay $100 for dinner in New York  
+  - Europe: Pay €80 for train tickets in Paris
 
 ### 2. Store of Value
-- Money keeps its worth over time
-- You can save it and spend later
-- **Example:** Put ₹10,000 in your account, spend next month
+- Money keeps its worth (mostly) over time
+- You can save today and spend tomorrow
+- **Examples:**
+  - UK: Put £1,000 in a savings account at Barclays
+  - US: Put $5,000 in a Chase savings account
+  - Europe: Put €2,000 in a Deutsche Bank account
 
 ### 3. Unit of Account
-- Common measure of value
-- We price things in money
-- **Example:** "That car costs ₹10 lakh" — we understand the value
+- Common measure of value across global markets
+- Makes comparison shopping possible internationally
+- **Examples:**
+  - UK: "That BMW costs £45,000"
+  - US: "That Tesla costs $55,000"
+  - Europe: "That Mercedes costs €50,000"
 
 ---
 
@@ -84,10 +93,10 @@ In 1971, the US stopped backing dollars with gold. Now money is:
 
 | Type | Example | What It Is |
 |------|---------|------------|
-| **Physical cash** | Rupee notes, coins | Central bank liability |
-| **Bank deposits** | Money in your savings account | Bank's promise to pay |
-| **Digital money** | UPI, PayPal, Venmo | Electronic transfer instructions |
-| **Central bank digital** | CBDC (e-Rupee) | Digital fiat from central bank |
+| **Physical cash** | Pound notes, Dollar bills, Euros, Rupees | Central bank liability |
+| **Bank deposits** | Money in your HSBC/Chase/Deutsche Bank account | Bank's promise to pay |
+| **Digital money** | PayPal, Venmo, Apple Pay, Google Pay | Electronic transfer instructions |
+| **Central bank digital** | e-£ (UK testing), e-€ (Eurozone), FedCoin (US exploring) | Digital fiat from central bank |
 | **Cryptocurrency** | Bitcoin, Ethereum | Decentralized digital assets |
 
 ---
@@ -95,14 +104,15 @@ In 1971, the US stopped backing dollars with gold. Now money is:
 ## 🏦 Where Money Comes From (Simplified)
 
 ### Central Banks Create "Base Money"
-- The Reserve Bank of India (RBI) creates rupees
-- The Federal Reserve (Fed) creates dollars
-- The European Central Bank (ECB) creates euros
+- **UK:** Bank of England (BoE) issues pounds (£)
+- **US:** Federal Reserve (Fed) issues dollars ($)
+- **Europe:** European Central Bank (ECB) issues euros (€)
+- **India:** Reserve Bank of India (RBI) issues rupees (₹)
 
 ### Commercial Banks Create "Broad Money"
-- When banks lend, they create new money
-- If you deposit ₹100 and bank lends ₹90, total money = ₹190
-- This is called **fractional reserve banking**
+- When any bank lends, they create new money
+- **Example:** You deposit £1,000 at HSBC → HSBC lends £900 → Total money = £1,900
+- This is called **fractional reserve banking** and happens globally
 
 > 🧮 **Fun fact:** Most money in the world exists only as accounting entries, not physical cash.
 
@@ -116,9 +126,9 @@ In 1971, the US stopped backing dollars with gold. Now money is:
 
 3. **Modern money is fiat** — valued by trust and government decree, not gold
 
-4. **Most money is digital** — only ~3-8% of money exists as physical cash
+4. **Most money is digital globally** — only ~3-8% exists as physical cash
 
-5. **Banks create money through lending** — every loan creates new deposits
+5. **Banks worldwide create money through lending** — every loan creates new deposits
 
 ---
 

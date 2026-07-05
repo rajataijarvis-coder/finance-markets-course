@@ -75,19 +75,19 @@ Think of the financial system like your body's circulatory system:
 ### What Banks Do
 
 **1. Take Deposits (Liability)**
-- You deposit ₹1,00,000
-- Bank owes you ₹1,00,000 (this is their liability)
+- You deposit £1,000 at HSBC (UK) / $5,000 at Chase (US) / €2,000 at Deutsche Bank
+- Bank owes you that money (this is their liability)
 - You can withdraw anytime
 
 **2. Make Loans (Asset)**
-- Bank lends ₹90,000 to a business
-- Business owes bank ₹90,000 + interest (this is bank's asset)
+- Bank lends £900 / $4,500 / €1,800 to a business
+- Business owes bank principal + interest (this is bank's asset)
 - Business pays back over time
 
 **3. Facilitate Payments**
-- Transfer money between accounts
-- Process checks, cards, UPI
-- Enable trade
+- Transfer money between accounts (UK Faster Payments, US ACH, EU SEPA)
+- Process cards (Visa, Mastercard), direct debits
+- Enable international trade (SWIFT, IBAN)
 
 ### The Spread (How Banks Make Money)
 
@@ -104,38 +104,58 @@ Think of the financial system like your body's circulatory system:
 ### Stock Market (Equity)
 **What trades:** Ownership in companies (shares)
 
-**Example:**
-- Tata Motors needs ₹10,000 crore to build electric cars
-- Instead of borrowing, they sell shares
-- You buy 100 shares at ₹500 each
-- You now own a tiny piece of Tata Motors
-- If they succeed, your shares become worth more
+**Examples:**
+- **US:** Apple (AAPL) needs $10 billion for R&D
+  - Instead of borrowing, they sell shares
+  - You buy 10 shares at $200 each
+  - You now own a tiny piece of Apple
+- **UK:** Shell (SHEL) raises £5 billion for energy transition
+  - Issues new shares on London Stock Exchange
+  - You buy shares, become part-owner
+- **Europe:** SAP needs €2 billion for cloud expansion
+  - Trades on Deutsche Börse (Germany)
 
 ### Bond Market (Fixed Income)
 **What trades:** Loans (IOUs)
 
-**Example:**
-- Indian government needs ₹1 lakh crore for highways
-- They issue "government bonds"
-- You buy a ₹1,00,000 bond
-- Government promises to pay you back in 10 years + 7% interest yearly
-- You lent money to the government
+**Examples:**
+- **UK Government** needs £20 billion for infrastructure
+  - Issues "gilt-edged securities" (gilts)
+  - You buy a £1,000 10-year gilt at 4% yield
+  - Government promises to pay you back with interest
+- **US Treasury** needs $500 billion (constantly)
+  - Issues Treasury bonds (10-year, 30-year)
+  - Considered safest investment in the world
+- **German Government** needs €10 billion
+  - Issues "Bunds" — benchmark for European bonds
+- **Corporate bonds:** Apple, Microsoft issue bonds to raise cash
+  - Usually pay higher interest than government bonds
 
 ### Forex Market (Currency)
 **What trades:** Currencies
 
-**Example:**
-- Indian company needs to buy $1 million of US software
-- They need rupees → dollars
-- Forex market matches them with someone who has dollars → wants rupees
+**Examples:**
+- **US company** buys German machinery for €1 million
+  - Needs USD → EUR
+  - Forex market matches them with EUR sellers
+- **UK tourist** exchanges £500 for $650 in New York
+  - Rate: GBP/USD = 1.30
+- **Indian exporter** receives $100,000 payment
+  - Converts USD → INR for domestic use
+- **Major pairs:** EUR/USD, GBP/USD, USD/JPY (most traded globally)
 
 ### Money Market
 **What trades:** Short-term borrowing (overnight to 1 year)
 
-**Example:**
-- HDFC Bank has extra cash today
-- ICICI Bank needs cash today
-- They trade in the money market (repurchase agreements, commercial paper)
+**Examples:**
+- **UK:** NatWest has extra cash overnight
+  - Lends to Barclays in the "interbank market"
+  - Rate tracks Bank of England base rate
+- **US:** JP Morgan lends to Goldman Sachs overnight
+  - "Fed funds market" — sets Federal Funds Rate
+- **Europe:** Deutsche Bank borrows short-term from BNP Paribas
+  - Rate tracks ECB deposit facility rate
+- **Instruments:** Treasury bills, commercial paper, repos
 
 ---
 
@@ -191,27 +211,27 @@ Think of the financial system like your body's circulatory system:
 
 ## 🔀 How Money Actually Flows
 
-### Example: You Save ₹10,000
+### Example: You Save £1,000 / $5,000 / €2,000
 
 ```
-You deposit ₹10,000 in HDFC Bank
+You deposit £1,000 at Barclays Bank (UK)
            ↓
-HDFC keeps ₹2,500 as reserve (with RBI)
+Barclays keeps £250 as reserve (with Bank of England)
            ↓
-HDFC lends ₹7,500 to a startup
+Barclays lends £750 to a renewable energy startup
            ↓
-Startup builds solar panels
+Startup builds wind turbines
            ↓
-Startup sells panels, earns revenue
+Startup sells power, earns revenue
            ↓
 Startup repays loan + interest
            ↓
-HDFC pays you interest
+Barclays pays you interest (currently ~4-5%)
            ↓
 You withdraw or reinvest
 ```
 
-**Your ₹10,000 helped build solar infrastructure!**
+**Your £1,000 helped build green energy infrastructure!**
 
 ---
 
