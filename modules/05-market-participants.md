@@ -27,74 +27,77 @@ Let's break it down.
 ## 🏦 Category 1: Savers & Investors
 
 ### Individual Investors (Retail)
-- You, me, your parents
+- You, me, anyone investing personal money
 - Invest through:
-  - Direct stock purchases
-  - Mutual funds
-  - Retirement accounts (PPF, NPS in India; 401(k) in US)
-- **Goal:** Grow wealth over time, fund goals
+  - **UK:** Direct stock purchases, ISAs (Individual Savings Accounts), SIPPs (Self-Invested Personal Pensions)
+  - **US:** Brokerage accounts, 401(k)s, IRAs, Roth IRAs
+  - **Europe:** Direct brokerage, pension accounts (private and state)
+  - **India:** Direct stocks, mutual funds via SIP, PPF, NPS
+- **Goal:** Grow wealth over time, fund retirement, education
 
-> 📊 **Stat:** In India, retail investors now account for ~15% of equity trading volume (up from just 5% a decade ago).
+> 📊 **Global stat:** Retail investors now account for 15-25% of equity trading volume globally — up from single digits a decade ago. Apps like Robinhood (US), Trading212 (UK), and Zerodha (India) democratized access.
 
 ### High Net Worth Individuals (HNWI)
-- Individuals with ₹5+ crore in investable assets
-- Access to:
-  - Private equity
-  - Hedge funds
-  - Customized portfolio management
-- **Goal:** Higher returns, often with higher risk tolerance
+- Individuals with $1M+ / £1M+ / €1M+ in investable assets
+- Access to investments not available to average investors:
+  - Private equity (buying into private companies)
+  - Hedge funds (complex strategies, high minimums)
+  - Personalized wealth management
+- **Goal:** Wealth preservation + higher returns, often with higher risk tolerance
 
 ### Institutional Investors
 Large organizations that invest on behalf of others:
 
 | Type | Examples | What They Do |
 |------|----------|--------------|
-| **Pension Funds** | EPF, NPS, US pension funds | Long-term retirement savings |
-| **Mutual Funds** | HDFC AMC, SBI MF, Vanguard | Pooled retail money |
-| **Insurance Companies** | LIC, Prudential, AIA | Invest premiums to pay claims |
-| **Sovereign Wealth Funds** | Norway's GPFG, GIC Singapore | Manage country reserves |
-| **Endowment Funds** | Harvard, IIT Bombay | University donations |
+| **Pension Funds** | USS (UK), CalPERS (US), APG (Netherlands), EPFO (India) | Manage retirement savings for millions |
+| **Mutual Funds/ETFs** | Vanguard, BlackRock (US), Legal & General (UK), Amundi (Europe) | Pool retail money, invest professionally |
+| **Insurance Companies** | Prudential (US/UK), Allianz (Germany), LIC (India) | Invest premiums to pay future claims |
+| **Sovereign Wealth Funds** | Norway's GPFG ($1.7T), Abu Dhabi ADIA, Temasek (Singapore) | Invest government reserves, often from oil |
+| **Endowment Funds** | Harvard, Yale, Oxford/Cambridge colleges | Invest university donations for long-term growth |
 
-> 🧠 **Key insight:** Institutional investors control the vast majority of market capital. When they move, markets react.
+> 🧠 **Key insight:** Institutional investors control ~70% of market capital globally. When they move (buying/selling billions), markets react. Their decisions affect prices retail investors see.
 
 ---
 
 ## 🏢 Category 2: Borrowers & Issuers
 
 ### Governments
-- Borrow by issuing **bonds** (gilts, treasuries)
+- Borrow by issuing **bonds** (gilts in UK, treasuries in US, bunds in Germany)
 - Need money for:
-  - Infrastructure
-  - Defense
-  - Social programs
-  - Running daily operations
+  - Infrastructure (roads, bridges, hospitals)
+  - Defense and security
+  - Social programs (healthcare, pensions)
+  - Running daily operations (salaries, services)
+- **UK:** HM Treasury issues "gilts" via Debt Management Office
+- **US:** Treasury Department issues bonds, bills, notes
+- **Europe:** Individual countries (Germany, France) + EU institutions issue debt
 - **India:** Government borrows via RBI auctions of G-secs
-- **US:** Treasury Department issues bonds
 
 ### Corporations
 - Raise money via:
-  - **Equity** (selling shares/stocks)
-  - **Debt** (issuing bonds or taking loans)
+  - **Equity** (selling shares/stocks on exchanges)
+  - **Debt** (issuing corporate bonds or taking bank loans)
 - Need capital for:
-  - Growth and expansion
-  - Working capital
-  - Acquisitions
-  - R&D
+  - Growth and expansion (new factories, markets)
+  - Working capital (day-to-day operations)
+  - Acquisitions (buying other companies)
+  - R&D (developing new products)
+- **Examples:** Apple issuing bonds to fund buybacks, Tesla raising equity for factories
 
 ### Financial Institutions
-- Banks borrow to lend
-- NBFCs (Non-Banking Finance Companies) raise capital to fund:
-  - Vehicle loans
-  - Home loans
-  - Microfinance
+- Banks borrow short-term to lend long-term
+- **Investment banks** raise capital for trading and deal-making
+- **Shadow banking** (non-bank lenders) increasingly important globally
+- **Examples:** Deutsche Bank, JP Morgan, HDFC Bank, Blackstone
 
 ### Individuals
-- Borrow for:
-  - Home (home loans)
-  - Education (education loans)
-  - Cars (auto loans)
-  - Business (business loans)
-  - Consumption (personal loans)
+- Borrow for major life expenses:
+  - **Home:** Mortgages (UK/US) / Home loans (India)
+  - **Education:** Student loans (UK/US have income-contingent repayment)
+  - **Cars:** Auto loans
+  - **Business:** Business loans, startup funding
+  - **Consumption:** Personal loans, credit cards
 
 ---
 
@@ -106,37 +109,53 @@ Intermediaries are the glue that connects savers to borrowers. They make the sys
 
 ```
 SAVER → BANK → BORROWER
-₹100 deposit → Bank lends ₹90 → Student gets loan
+£100 deposit → Bank lends £90 → Homebuyer gets mortgage
 ```
 
 **What banks do:**
-- Take deposits (accept your savings)
-- Lend money (to borrowers)
-- Create payment systems (UPI, transfers)
-- Transform maturities (short-term deposits → long-term loans)
+- Take deposits (accept your savings — from current accounts to fixed-term deposits)
+- Lend money (to borrowers — mortgages, business loans, personal credit)
+- Create payment systems (UK Faster Payments, US ACH, EU SEPA, India UPI)
+- Transform maturities (short-term deposits → long-term loans — this is their magic)
 
-> 💡 **Key insight:** Banks are "intermediaries" — they stand between savers and borrowers, taking the risk that borrowers don't repay.
+> 💡 **Key insight:** Banks are "intermediaries" — they stand between savers and borrowers, taking the risk that borrowers don't repay. They earn the "spread" between deposit and lending rates.
+
+**Major Global Banks:**
+- **US:** JP Morgan, Bank of America, Wells Fargo
+- **UK:** HSBC, Barclays, NatWest
+- **Europe:** Deutsche Bank, BNP Paribas, Santander
+- **India:** HDFC Bank, ICICI Bank, SBI
 
 ### Investment Banks
-- **Not actual banks** — they don't take deposits
-- Help companies issue shares/bonds
-- Advise on mergers & acquisitions
-- **Examples:** Goldman Sachs, JP Morgan, Kotak Mahindra Capital
+- **Not retail banks** — they don't take public deposits
+- Help companies raise money (IPOs, bond issuances)
+- Advise on mergers & acquisitions (M&A)
+- Trade securities for their own profit
+- **Examples:** Goldman Sachs, Morgan Stanley (US), Barclays (UK), Deutsche Bank (Germany)
 
-### Stock Brokers
+### Stock Brokers / Trading Platforms
 - Execute buy/sell orders for investors
-- Provide platforms (Zerodha, Upstox, Robinhood)
-- Offer research and advisory
+- Provide technology platforms:
+  - **US:** Charles Schwab, Fidelity, Robinhood, E*Trade
+  - **UK:** Hargreaves Lansdown, Interactive Investor, Trading212
+  - **Europe:** Degiro, Interactive Brokers, Boursorama
+  - **India:** Zerodha, Upstox, Angel One, Groww
+- Offer research, advisory, and educational content
 
-### Asset Management Companies
-- Manage mutual funds, PMS (Portfolio Management Services)
+### Asset Management Companies (AMCs)
+- Manage mutual funds, ETFs, and institutional mandates
 - Pool investor money and invest professionally
-- **Examples:** BlackRock, HDFC AMC, ICICI Prudential
+- **Largest globally:** BlackRock ($10T+ assets), Vanguard ($8T+), State Street
+- **UK/Europe:** Legal & General, Schroders, Amundi
+- **India:** HDFC AMC, Nippon India, ICICI Prudential
+
+> 🌍 **Global reach:** BlackRock's Aladdin platform manages risk for institutions worldwide. Vanguard's index funds revolutionized low-cost investing.
 
 ### Insurance Companies
-- Collect premiums
-- Invest pooled money for returns
-- Provide risk protection
+- Collect premiums from policyholders
+- Invest pooled money to generate returns
+- Pay claims when insured events occur
+- **Major players:** AIG (US), Prudential (UK/US), Allianz (Germany), Ping An (China), LIC (India)
 
 ---
 
@@ -144,44 +163,71 @@ SAVER → BANK → BORROWER
 
 These participants make trading possible:
 
-### Exchanges
-- **NSE, BSE** — India
-- **NYSE, NASDAQ** — US
-- **LSE** — London
-- Provide platform for buying/selling
+### Exchanges (Where Trading Happens)
+- **US:** NYSE, NASDAQ — world's largest by market capitalization
+- **UK:** London Stock Exchange (LSE) — oldest major exchange (founded 1801)
+- **Europe:** Euronext (Amsterdam, Paris, Brussels, Dublin), Deutsche Börse (Germany), SIX Swiss
+- **Asia:** Tokyo Stock Exchange, Hong Kong Exchange, Shanghai/Shenzhen (China), NSE/BSE (India)
+- Provide regulated platforms for buying/selling securities
 
-### Depositories (CDSL, NSDL in India)
-- Hold securities in electronic form
-- Track ownership
+> 💡 **How it works:** Companies "list" on exchanges. Investors trade through brokers. Exchanges match buyers and sellers electronically.
+
+### Depositories (Hold Securities Electronically)
+- **US:** DTC (Depository Trust Company) — holds most US securities
+- **UK:** CREST — operated by Euroclear
+- **Europe:** Various national systems, Euroclear network
+- **India:** CDSL, NSDL
+- Function: Hold shares in electronic form (no physical certificates), track ownership changes
 
 ### Clearing Houses
-- Guarantee trades — ensure buyer gets shares, seller gets money
-- Manage risk
+- **Guarantee trades** — ensure settlement happens even if one party defaults
+- **Manage risk** — collect margins, monitor positions
+- **Major clearers:** DTCC (US), LCH (UK/Europe), Euroclear
+- **Why they matter:** If you buy shares, clearing house ensures you get them even if seller fails
 
 ### Credit Rating Agencies
 - Rate borrowers (companies, governments) on creditworthiness
-- **Examples:** CRISIL, ICRA, Moody's, S&P, Fitch
+- **Scale:** AAA (safest) → D (default)
+- **Major agencies:** Moody's, S&P, Fitch (US-based), CRISIL (India), DBRS (Canada)
 
-> ⚠️ **Warning:** Rating agencies were criticized after 2008 crisis for being too generous with ratings. Always do your own research.
+> ⚠️ **Warning:** Rating agencies were criticized after 2008 crisis for giving AAA ratings to risky mortgage securities. Their ratings affect borrowing costs but aren't infallible. Always do your own research.
 
 ---
 
 ## 🏛️ Category 5: Regulators & Policy Makers
 
-### Securities and Exchange Board of India (SEBI)
+### United States: Securities and Exchange Commission (SEC)
+- Regulates US securities markets
+- Protects investors
+- Enforces disclosure requirements
+- **Powers:** Can fine, ban, even prosecute fraud
+
+### United Kingdom: Financial Conduct Authority (FCA)
+- Regulates financial services in UK
+- Protects consumers, ensures market integrity
+- **Note:** Bank of England handles monetary policy; FCA handles conduct
+
+### European Union: European Securities and Markets Authority (ESMA)
+- EU-wide securities regulator
+- Coordinates national regulators
+- Creates single rulebook for EU markets
+
+### India: Securities and Exchange Board of India (SEBI)
 - Protects investor interests
-- Regulates markets
+- Regulates markets, mutual funds, brokers
 - Sets rules for issuances and trading
 
-### Reserve Bank of India (RBI)
-- Manages money supply
-- Sets interest rates
-- Regulates banks
+### Reserve/Central Banks
+- **US:** Federal Reserve (Fed) — manages money supply, sets rates
+- **UK:** Bank of England — monetary policy, financial stability
+- **Europe:** European Central Bank (ECB) — eurozone monetary policy
+- **India:** Reserve Bank of India (RBI) — money supply, banking regulation
 
 ### International Bodies
-- **IMF** — Global financial stability
-- **World Bank** — Development funding
-- **Financial Stability Board (FSB)** — Coordination
+- **IMF (International Monetary Fund)** — Global financial stability, lends to countries in crisis
+- **World Bank** — Development funding, poverty reduction
+- **FSB (Financial Stability Board)** — Coordinates global financial regulation post-2008
+- **BIS (Bank for International Settlements)** — "Central bank for central banks," Basel, Switzerland
 
 ---
 
@@ -226,19 +272,20 @@ Here's the complete ecosystem:
 
 ---
 
-## 🌍 Indian Context: Who Does What?
+## 🌍 Global Context: Who Does What?
 
-| Participant | Indian Example | Role |
-|-------------|----------------|------|
-| **Retail Investor** | You via Zerodha | Buy stocks, MFs |
-| **Mutual Fund** | SIP investors via HDFC MF | Pool and invest |
-| **Pension Fund** | EPFO, NPS | Retirement savings |
-| **Bank** | HDFC Bank, SBI | Accept deposits, lend |
-| **Broker** | Zerodha, Angel One | Execute trades |
-| **Issuer** | Reliance, TCS | Issue shares/bonds |
-| **Regulator** | SEBI, RBI | Rule-making |
+| Participant | US Example | UK Example | Europe Example | India Example | Role |
+|-------------|-----------|------------|----------------|---------------|------|
+| **Retail Investor** | You via Schwab | You via Hargreaves Lansdown | You via Degiro | You via Zerodha | Buy stocks, ETFs |
+| **Mutual Fund/ETF** | Vanguard, Fidelity | Legal & General, iShares | Amundi, DWS | HDFC MF, Nippon India | Pool and invest |
+| **Pension Fund** | CalPERS, Florida SBA | USS, Nest | APG, ABP | EPFO, NPS | Retirement savings |
+| **Bank** | JP Morgan, Bank of America | HSBC, Barclays | Deutsche Bank, BNP | HDFC Bank, SBI | Deposits, lending |
+| **Broker** | Schwab, Robinhood | Hargreaves Lansdown | Degiro, Interactive Brokers | Zerodha, Angel One | Execute trades |
+| **Exchange** | NYSE, NASDAQ | London Stock Exchange | Euronext, Deutsche Börse | NSE, BSE | Trading platform |
+| **Issuer** | Apple, Microsoft | Shell, BP | SAP, LVMH | Reliance, TCS | Issue shares/bonds |
+| **Regulator** | SEC, FINRA | FCA, PRA | ESMA, ECB | SEBI, RBI | Rule-making |
 
-> 🇮🇳 **India-specific:** The Indian market has seen massive democratization — gone are the days when only HNWI could access markets. Today, anyone with a phone and a Demat account can invest.
+> 🌍 **Global democratization:** Markets worldwide have become accessible to everyone. In the US, Robinhood made commission-free trading mainstream. In the UK, platforms like Trading212 offer zero-commission investing. In India, Zerodha revolutionized discount broking. In Europe, Degiro brought low-cost investing to millions. Today, anyone with a phone and an account can invest globally.
 
 ---
 
@@ -281,8 +328,8 @@ Here's the complete ecosystem:
 ## 🤔 Questions?
 
 Ask me anything! Some common questions:
-- "What's the difference between NSE and BSE?" (Answer: Both are exchanges; NSE was first demat, BSE is older)
-- "How do I start investing in India?" (Answer: Open Demat with Zerodha/Upstox, complete KYC)
-- "Why do institutions matter more than retail?" (Answer: They have more capital, so their moves move markets)
+- "What's the difference between NYSE and NASDAQ?" (Answer: NYSE has physical trading floor, auction-based; NASDAQ is fully electronic, dealer-based. Both are in New York.)
+- "How do I start investing in the UK/US?" (Answer: Open account with FCA/SEC-regulated broker, complete identity verification, fund account)
+- "Why do institutions matter more than retail?" (Answer: They control ~70% of market capital; their trades move prices. A pension fund buying $100M moves markets more than 1,000 retail investors buying $100K each.)
 
 **When you're ready, reply: "Done with Module 5" or ask your questions!**
