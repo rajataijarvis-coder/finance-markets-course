@@ -20,7 +20,7 @@
 ## Phase 2: Core Markets (Modules 6-15)
 | Module | Topic | Status |
 |--------|-------|--------|
-| 06 | Equity Markets (Stocks) | 📝 Pending |
+| 06 | Equity Markets (Stocks) | ✅ Complete |
 | 07 | Fixed Income (Bonds) | 📝 Pending |
 | 08 | Money Markets | 📝 Pending |
 | 09 | Foreign Exchange (Forex) | 📝 Pending |
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 5 added)*
+*Last updated: 2026-07-05 (Module 6 added)*
