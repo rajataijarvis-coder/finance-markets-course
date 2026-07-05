@@ -80,11 +80,11 @@
 ## Phase 7: Taxation & Wealth Preservation (Modules 46-50)
 | Module | Topic | Status |
 |--------|-------|--------|
-| 46 | Understanding Capital Gains Tax (UK/US/Europe) | 📝 Pending |
-| 47 | Tax-Efficient Investment Accounts (ISA, SIPP, 401k, IRA) | 📝 Pending |
-| 48 | Tax Loss Harvesting & Offset Strategies | 📝 Pending |
-| 49 | International Investing & Tax Considerations | 📝 Pending |
-| 50 | Estate Planning & Wealth Transfer Basics | 📝 Pending |
+| 46 | Understanding Capital Gains Tax (UK/US/Europe) | ✅ Complete |
+| 47 | Tax-Efficient Investment Accounts (ISA, SIPP, 401k, IRA) | ✅ Complete |
+| 48 | Tax Loss Harvesting & Offset Strategies | ✅ Complete |
+| 49 | International Investing & Tax Considerations | ✅ Complete |
+| 50 | Estate Planning & Wealth Transfer Basics | ✅ Complete |
 
 ---
 
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (PHASE 6 COMPLETE: Active Trading & Strategy - Modules 36-45)
+*Last updated: 2026-07-05 (PHASE 7 STARTED: Module 46 Complete)
