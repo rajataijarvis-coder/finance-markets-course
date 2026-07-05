@@ -15,7 +15,7 @@
 | 02 | The Financial System Map | ✅ Complete |
 | 03 | Interest Rates Explained | ✅ Complete |
 | 04 | Risk & Return Basics | ✅ Complete |
-| 05 | Market Participants | 📝 Pending |
+| 05 | Market Participants | ✅ Complete |
 
 ## Phase 2: Core Markets (Modules 6-15)
 | Module | Topic | Status |
@@ -105,4 +105,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 4 added)*
+*Last updated: 2026-07-05 (Module 5 added)*
