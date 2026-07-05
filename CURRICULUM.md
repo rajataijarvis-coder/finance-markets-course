@@ -77,6 +77,15 @@
 | 44 | News & Sentiment Trading | 📝 Pending |
 | 45 | Execution, Order Flow & Broker Setup | 📝 Pending |
 
+## Phase 7: Taxation & Wealth Preservation (Modules 46-50)
+| Module | Topic | Status |
+|--------|-------|--------|
+| 46 | Understanding Capital Gains Tax (UK/US/Europe) | 📝 Pending |
+| 47 | Tax-Efficient Investment Accounts (ISA, SIPP, 401k, IRA) | 📝 Pending |
+| 48 | Tax Loss Harvesting & Offset Strategies | 📝 Pending |
+| 49 | International Investing & Tax Considerations | 📝 Pending |
+| 50 | Estate Planning & Wealth Transfer Basics | 📝 Pending |
+
 ---
 
 ## Learning Schedule
