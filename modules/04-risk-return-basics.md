@@ -21,10 +21,16 @@ Why would anyone put money in something that could lose value? The answer is sim
 Return = (Final Value - Initial Investment) / Initial Investment × 100%
 ```
 
-**Example:**
-- You invest ₹10,000 in a stock
-- One year later, it's worth ₹12,000
-- Your return = (12,000 - 10,000) / 10,000 × 100% = **20%**
+**Examples:**
+- **UK:** You invest £1,000 in a FTSE 100 stock
+  - One year later, it's worth £1,200
+  - Your return = (1,200 - 1,000) / 1,000 × 100% = **20%**
+- **US:** You invest $5,000 in an S&P 500 ETF
+  - One year later, it's worth $6,000
+  - Your return = **20%**
+- **Europe:** You invest €2,000 in a DAX 40 company
+  - One year later, it's worth €2,400
+  - Your return = **20%**
 
 ### Types of Returns
 
@@ -35,11 +41,25 @@ Return = (Final Value - Initial Investment) / Initial Investment × 100%
 | **Interest** | Income from bonds/fixed deposits |
 | **Total Return** | Capital gains + income combined |
 
-**Example: Stock Investment**
-- You buy a stock for ₹1,000
-- Price goes to ₹1,200 = ₹200 capital gain
-- Company pays ₹50 dividend = ₹50 dividend income
-- Total return = ₹250 / ₹1,000 = **25%**
+**Examples: Stock Investment**
+
+**UK (HSBC):**
+- You buy shares for £1,000
+- Price goes to £1,150 = £150 capital gain
+- Company pays £40 dividend = £40 income
+- Total return = £190 / £1,000 = **19%**
+
+**US (Apple):**
+- You buy shares for $5,000
+- Price goes to $5,750 = $750 capital gain
+- Company pays $100 dividend = $100 income
+- Total return = $850 / $5,000 = **17%**
+
+**Europe (SAP):**
+- You buy shares for €2,000
+- Price goes to €2,400 = €400 capital gain
+- Company pays €60 dividend = €60 income
+- Total return = €460 / €2,000 = **23%**
 
 ---
 
@@ -146,26 +166,32 @@ Both might average 10% return. But Stock B is much riskier.
 
 ---
 
-## 🌍 Risk & Return in India: Examples
+## 🌍 Risk & Return Around the World: Examples
 
-### Typical Risk-Return Profiles
+### Typical Risk-Return Profiles (5-Year Averages)
 
-| Investment | Avg. Return (5-yr) | Risk Level | Volatility |
-|------------|-------------------|------------|------------|
-| **Savings Account** | 3.0% | Very Low | None |
-| **Fixed Deposit** | 6.5% | Low | None |
-| **PPF** | 7.1% | Very Low | None |
-| **Gold** | 8-10% | Medium | Medium |
-| **Nifty 50 Index** | 12-15% | High | High |
-| **Small-cap Stocks** | 15-20%+ | Very High | Very High |
+| Investment | US | UK | Europe | Risk Level |
+|------------|----|----|--------|------------|
+| **Savings Account** | 4-5% | 3-5% | 2-3% | Very Low |
+| **1-Year CD/Fixed Deposit** | 4.5-5.5% | 4-5% | 3-4% | Low |
+| **Government Bonds (10-yr)** | 4-5% | 4-4.5% | 2-3% | Low |
+| **Corporate Bonds** | 5-7% | 5-6% | 3-5% | Low-Medium |
+| **Gold** | 8-10% | 8-10% | 8-10% | Medium |
+| **Stock Index (S&P 500/FTSE 100/DAX)** | 10-12% | 7-9% | 6-8% | High |
+| **Individual Stocks** | Variable | Variable | Variable | Very High |
 
-### Real Example: 2020 Market Crash
+### Real Example: 2020 Market Crash (COVID-19)
 
-During COVID-19 crash (March 2020):
-- Nifty 50 fell **40%** in one month
-- Then recovered and hit new highs by 2021
+**Global markets fell together:**
+- S&P 500 (US): fell **34%** in one month (Feb-March 2020)
+- FTSE 100 (UK): fell **33%**
+- DAX 40 (Germany): fell **39%**
 
-Lesson: High returns come with big drawdowns. Can you handle watching your portfolio drop 40%?
+**Then recovered together:**
+- All hit new highs by 2021
+- S&P 500 ended 2020 up **16%**
+
+**Lesson:** Risk is real globally. But so is recovery for patient investors.
 
 ---
 
@@ -181,13 +207,21 @@ Risk Premium = Investment Return - Risk-Free Return
 
 The "risk-free" return is usually government bond yields (since government is unlikely to default).
 
-### Example Calculation
+### Example Calculation (US)
 
-- Nifty 50 historical return: 12%
-- Government 10-year bond: 7%
-- Risk Premium = 12% - 7% = **5%**
+- S&P 500 historical return: ~10%
+- US 10-year Treasury bond: ~4%
+- Risk Premium = 10% - 4% = **6%**
 
-This 5% is the extra return Indian stocks give you for accepting market risk.
+This 6% is the extra return US stocks give you for accepting market risk vs. government bonds.
+
+### Example Calculation (UK)
+
+- FTSE 100 historical return: ~7-8%
+- UK 10-year gilt: ~4%
+- Risk Premium = ~4%
+
+The UK has a lower risk premium due to less growth volatility.
 
 ---
 
