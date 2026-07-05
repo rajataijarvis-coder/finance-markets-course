@@ -63,6 +63,20 @@
 | 34 | Behavioral Finance | 📝 Pending |
 | 35 | Fintech & Crypto | 📝 Pending |
 
+## Phase 6: Active Trading & Strategy (Modules 36-45)
+| Module | Topic | Status |
+|--------|-------|--------|
+| 36 | Technical Analysis 101 | 📝 Pending |
+| 37 | Trading Indicators (RSI, MACD, Bollinger) | 📝 Pending |
+| 38 | Price Action & Support/Resistance | 📝 Pending |
+| 39 | Risk Management for Traders | 📝 Pending |
+| 40 | Trading Psychology & Discipline | 📝 Pending |
+| 41 | Backtesting Strategies | 📝 Pending |
+| 42 | Building a Trading System | 📝 Pending |
+| 43 | Macro Trading & Event Trading | 📝 Pending |
+| 44 | News & Sentiment Trading | 📝 Pending |
+| 45 | Execution, Order Flow & Broker Setup | 📝 Pending |
+
 ---
 
 ## Learning Schedule
