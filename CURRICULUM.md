@@ -21,10 +21,10 @@
 | Module | Topic | Status |
 |--------|-------|--------|
 | 06 | Equity Markets (Stocks) | ✅ Complete |
-| 07 | Fixed Income (Bonds) | 📝 Pending |
-| 08 | Money Markets | 📝 Pending |
-| 09 | Foreign Exchange (Forex) | 📝 Pending |
-| 10 | Commodities | 📝 Pending |
+| 07 | Fixed Income (Bonds) | ✅ Complete |
+| 08 | Money Markets | ✅ Complete |
+| 09 | Foreign Exchange (Forex) | ✅ Complete |
+| 10 | Commodities | ✅ Complete |
 | 11 | Derivatives: Futures & Forwards | 📝 Pending |
 | 12 | Derivatives: Options | 📝 Pending |
 | 13 | Derivatives: Swaps | 📝 Pending |
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 6 added)*
+*Last updated: 2026-07-05 (Module 10 added)*
