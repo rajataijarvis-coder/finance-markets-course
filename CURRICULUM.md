@@ -34,7 +34,7 @@
 ## Phase 3: Market Infrastructure (Modules 16-22)
 | Module | Topic | Status |
 |--------|-------|--------|
-| 16 | Stock Exchanges | 📝 Pending |
+| 16 | Stock Exchanges | ✅ Complete |
 | 17 | Clearing & Settlement | 📝 Pending |
 | 18 | Market Makers & Liquidity | 📝 Pending |
 | 19 | Trading Mechanisms | 📝 Pending |
@@ -128,4 +128,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 15 added)*
+*Last updated: 2026-07-05 (Module 16 added)*
