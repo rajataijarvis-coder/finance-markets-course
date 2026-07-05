@@ -17,14 +17,14 @@ When you borrow money, why do you have to pay more later? And when you save, why
 
 **Interest** is the cost of borrowing money, or the reward for saving it.
 
-- If you borrow ₹100 and pay back ₹105, the ₹5 is interest
-- If you save ₹100 and it grows to ₹105, the ₹5 is interest earned
+- If you borrow £100 / $100 / €100 and pay back £105 / $105 / €105, the extra is interest
+- If you save £100 / $100 / €100 and it grows to £105 / $105 / €105, the extra is interest earned
 
 ### The Four Reasons Interest Exists
 
-1. **Time preference** — People prefer having money now rather than later. You'd rather have ₹100 today than ₹100 a year from now (what if you need it?).
+1. **Time preference** — People prefer having money now rather than later. You'd rather have £100 today than £100 a year from now (what if you need it?).
 
-2. **Inflation** — Prices tend to go up over time. ₹100 today buys more than ₹100 next year.
+2. **Inflation** — Prices tend to go up over time. £100 today buys more than £100 next year.
 
 3. **Risk** — The borrower might not pay back. Lenders demand compensation for this risk.
 
@@ -43,11 +43,11 @@ Future Value = Present Value × (1 + Interest Rate)^Time
 ```
 
 **Example:**
-- You invest ₹10,000 at 10% annual interest for 3 years
-- Year 1: ₹10,000 × 1.10 = ₹11,000
-- Year 2: ₹11,000 × 1.10 = ₹12,100
-- Year 3: ₹12,100 × 1.10 = ₹13,310
-- **You earned ₹3,310 in interest**
+- You invest £10,000 / $10,000 / €10,000 at 10% annual interest for 3 years
+- Year 1: £10,000 × 1.10 = £11,000
+- Year 2: £11,000 × 1.10 = £12,100
+- Year 3: £12,100 × 1.10 = £13,310
+- **You earned £3,310 in interest**
 
 ### Simple vs. Compound Interest
 
@@ -55,22 +55,22 @@ Future Value = Present Value × (1 + Interest Rate)^Time
 
 ```
 Interest = Principal × Rate × Time
-₹10,000 × 10% × 3 years = ₹3,000
+£10,000 × 10% × 3 years = £3,000
 ```
 
 **Compound Interest** — You earn interest on interest.
 
 ```
-₹10,000 × (1.10)^3 = ₹13,310 (same as above)
+£10,000 × (1.10)^3 = £13,310 (same as above)
 ```
 
 > 🧮 **The power of compounding:** At 10% per year, your money doubles roughly every 7 years.
 
 ```
-Year 0:    ₹10,000
-Year 7:    ₹20,000
-Year 14:   ₹40,000
-Year 21:   ₹80,000
+Year 0:    £10,000
+Year 7:    £20,000
+Year 14:   £40,000
+Year 21:   £80,000
 ```
 
 That's the magic Einstein allegedly called the "eighth wonder of the world."
@@ -109,27 +109,34 @@ The actual cost is higher because interest compounds monthly!
 
 ---
 
-## 🌍 Interest Rates in India: Examples
+## 🌍 Interest Rates Around the World: Examples
 
 ### Where You'll See Interest Rates
 
-| Product | Typical Rate (2024-25) | Notes |
-|---------|----------------------|-------|
-| **Savings Account** | 2.5-3.5% | Very low — banks don't pay much |
-| **Fixed Deposit (1 yr)** | 6.5-7.5% | Guaranteed return |
-| **Personal Loan** | 10-24% | Based on credit score |
-| **Home Loan** | 8.5-10% | Lower for affordable housing |
-| **Credit Card** | 18-48% | Very expensive! |
-| **Small Finance Bank FD** | 7-8% | Higher rates, more risk |
+| Product | US (2024) | UK (2024) | Europe (2024) | Notes |
+|---------|-----------|-----------|---------------|-------|
+| **Savings Account** | 4-5% | 3-5% | 2-3% | Online banks pay more than traditional |
+| **1-Year Fixed Deposit/CD** | 4.5-5.5% | 4-5% | 3-4% | Guaranteed return, locked period |
+| **Personal Loan** | 7-18% | 6-15% | 5-12% | Based on credit score |
+| **Mortgage (30yr/25yr)** | 6-7% | 4-5% | 3-4% | Secured by property |
+| **Credit Card** | 18-25% | 20-30% | 15-22% | Very expensive if not paid off! |
+| **10-Year Government Bond** | 4-5% | 4-4.5% | 2-3% | "Risk-free" benchmark rate |
 
-### The Repo Rate Connection
+### Central Bank Policy Rates
 
-The **Repo Rate** is the rate at which RBI lends to banks. When this changes, your loan EMIs and FD rates eventually change too.
+Central banks set a **policy rate** that influences all other rates:
 
-- When RBI raises rates → loans become expensive, FD rates rise
-- When RBI cuts rates → loans become cheaper, FD rates fall
+| Central Bank | Policy Rate (2024) | What It Controls |
+|--------------|-------------------|------------------|
+| **Federal Reserve (US)** | 5.25-5.50% | Federal Funds Rate |
+| **Bank of England (UK)** | 5.25% | Bank Rate |
+| **European Central Bank** | 4.50% | Main Refinancing Rate |
+| **Reserve Bank of India** | 6.50% | Repo Rate |
 
-**Current context (2024-25):** RBI has been maintaining the repo rate at 6.5% to balance growth and inflation.
+When central banks change these rates, mortgage rates, savings rates, and bond yields eventually follow.
+
+- When rates rise → mortgages get expensive, but savings pay more
+- When rates fall → loans get cheaper, but savings pay less
 
 ---
 
