@@ -13,7 +13,7 @@
 |--------|-------|--------|
 | 01 | What is Money? | ✅ Complete |
 | 02 | The Financial System Map | ✅ Complete |
-| 03 | Interest Rates Explained | 📝 Pending |
+| 03 | Interest Rates Explained | ✅ Complete |
 | 04 | Risk & Return Basics | 📝 Pending |
 | 05 | Market Participants | 📝 Pending |
 
@@ -105,4 +105,4 @@
 
 ---
 
-*Last updated: 2026-07-05*
+*Last updated: 2026-07-05 (Module 3 added)*
