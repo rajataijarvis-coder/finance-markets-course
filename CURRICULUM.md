@@ -14,7 +14,7 @@
 | 01 | What is Money? | ✅ Complete |
 | 02 | The Financial System Map | ✅ Complete |
 | 03 | Interest Rates Explained | ✅ Complete |
-| 04 | Risk & Return Basics | 📝 Pending |
+| 04 | Risk & Return Basics | ✅ Complete |
 | 05 | Market Participants | 📝 Pending |
 
 ## Phase 2: Core Markets (Modules 6-15)
@@ -105,4 +105,4 @@
 
 ---
 
-*Last updated: 2026-07-05 (Module 3 added)*
+*Last updated: 2026-07-05 (Module 4 added)*
